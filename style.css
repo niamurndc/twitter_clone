@@ -1,0 +1,8 @@
+.bg-purple { background-color: #6f42c1; }
+
+/* custom css start here */
+.profile-info{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
